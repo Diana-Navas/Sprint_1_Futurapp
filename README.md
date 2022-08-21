@@ -1,1 +1,1 @@
-# Sprint_1_Futurapp, Esto es una práctica de Pull request sfghsfg
+# Sprint_1_Futurapp.
